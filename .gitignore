@@ -131,3 +131,7 @@ dmypy.json
 # Data Folder
 data/*
 model/haarcascades/*
+
+# .DS_Store
+.DS_Store
+model/.DS_Store
