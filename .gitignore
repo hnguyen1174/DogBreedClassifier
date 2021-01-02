@@ -135,3 +135,4 @@ model/haarcascades/*
 # .DS_Store
 .DS_Store
 model/.DS_Store
+model/model_scratch.pt
